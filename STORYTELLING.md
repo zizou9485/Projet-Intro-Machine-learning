@@ -2,7 +2,7 @@
 
 Honestly we were sitting together trying to pick a dataset and someone just said "UFC" and we all agreed immediately. We're fans of the sport so it made sense to work on something we actually care about.
 
-The idea was straightforward — fighters have stats, fights have outcomes, so maybe we can connect the two. Reach, age, striking accuracy, takedown rate... all of this exists before a fight even happens. So why not use it?
+The idea was straightforward fighters have stats, fights have outcomes, so maybe we can connect the two. Reach, age, striking accuracy, takedown rate... all of this exists before a fight even happens. So why not use it?
 
 ## What we found out
 
@@ -20,4 +20,4 @@ Data cleaning takes way longer than you expect. And an imbalanced dataset will d
 
 Also Random Forest is just built different.
 
-— Zied, Amine, Ryan
+ Zied, Amine, Ryan
