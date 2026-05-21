@@ -10,8 +10,8 @@ The data was messy lots of missing values, imbalanced classes, mixed types. We c
 
 ## Models
 
-- Random Forest — 78.14% accuracy after tuning
-- Logistic Regression — 72.42% accuracy after tuning
+- Random Forest 78.14% accuracy after tuning
+- Logistic Regression 72.42% accuracy after tuning
 
 Random Forest won.
 
