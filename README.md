@@ -6,7 +6,7 @@ Me and my teammates decided to work on UFC data because we're all fans of the sp
 
 We took a dataset of UFC fights from 1993 to 2021 (around 6000 fights, 144 columns) and tried to predict whether the Red corner or Blue corner fighter would win.
 
-The data was messy — lots of missing values, imbalanced classes, mixed types. We cleaned it up, balanced it with SMOTE, and trained two models to compare them.
+The data was messy lots of missing values, imbalanced classes, mixed types. We cleaned it up, balanced it with SMOTE, and trained two models to compare them.
 
 ## Models
 
